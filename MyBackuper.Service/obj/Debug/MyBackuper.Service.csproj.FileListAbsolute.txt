@@ -1,0 +1,14 @@
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Service\obj\Debug\MyBackuper.Service.csprojResolveAssemblyReference.cache
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Service\obj\Debug\MyBackuper.Service.MyBackuperService.resources
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Service\obj\Debug\MyBackuper.Service.ProjectInstaller.resources
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Service\obj\Debug\MyBackuper.Service.Properties.Resources.resources
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Service\obj\Debug\MyBackuper.Service.csproj.GenerateResource.Cache
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Service\bin\Debug\MyBackuper.Service.exe.config
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Service\bin\Debug\MyBackuper.Service.exe
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Service\bin\Debug\MyBackuper.Service.pdb
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Service\bin\Debug\MyBackuper.Classes.dll
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Service\bin\Debug\MyBackuper.Classes.pdb
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Service\obj\Debug\MyBackuper.Service.exe
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Service\obj\Debug\MyBackuper.Service.pdb

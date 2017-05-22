@@ -1,0 +1,17 @@
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\bin\Debug\MyBackuper.Client.exe.config
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\obj\Debug\MyBackuper.Client.csprojResolveAssemblyReference.cache
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\obj\Debug\MyBackuper.Client.Form1.resources
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\obj\Debug\MyBackuper.Client.Properties.Resources.resources
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\obj\Debug\MyBackuper.Client.csproj.GenerateResource.Cache
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\bin\Debug\MyBackuper.Client.exe
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\bin\Debug\MyBackuper.Client.pdb
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\bin\Debug\MyBackuper.Classes.dll
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\bin\Debug\MyBackuper.Service.exe
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\bin\Debug\MyBackuper.Classes.pdb
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\bin\Debug\MyBackuper.Service.pdb
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\obj\Debug\MyBackuper.Client.exe
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\obj\Debug\MyBackuper.Client.pdb
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\obj\Debug\MyBackuper.Client.Form2.resources
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Client\obj\Debug\MyBackuper.Client.Form3.resources

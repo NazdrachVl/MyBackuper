@@ -1,0 +1,7 @@
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Classes\bin\Debug\MyBackuper.Classes.dll
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Classes\bin\Debug\MyBackuper.Classes.pdb
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Classes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Classes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Classes\obj\Debug\MyBackuper.Classes.dll
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Classes\obj\Debug\MyBackuper.Classes.pdb
+C:\Users\Zabrodin\Documents\Visual Studio 2015\Projects\MyBackuper\MyBackuper.Classes\obj\Debug\MyBackuper.Classes.csprojResolveAssemblyReference.cache
